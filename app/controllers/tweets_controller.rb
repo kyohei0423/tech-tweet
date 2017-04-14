@@ -2,7 +2,7 @@ class TweetsController < ApplicationController
   def index
     @tweet_image =  'http://likeshare-world.com/wp-content/uploads/10341432_1581526012080529_1415860168988097714_n.jpg'
     @tweet_text = 'オーロラきれい'
-    @tweet_name = 'やまだ ゆうすけ'
+    @tweet_name = 'せお きょうへい'
   end
 
   def my_page
